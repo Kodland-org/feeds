@@ -155,7 +155,7 @@
         <model>Veb-dizain</model>
         <name>Veb-dizain</name>
         <url>https://www.kodland.org/ru/courses/web-design</url>
-        <picture>https://kodland-org.github.io/feeds/Web_design.png</picture>
+        <picture>https://kodland-org.github.io/feeds/Web-design.png</picture>
         <description>Onlain kurs Kodland: Veb-dizain.</description>
         <param name="lessons">32 uroka</param>
         <param name="format">online</param>
