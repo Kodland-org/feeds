@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-28 12:00">
+<shop>
+<name>Kodland</name>
+<company>OOO Kodlend</company>
+<url>https://www.kodland.org/ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Kursy</category>
+</categories>
+<offers>
+
+<offer id="1" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Programmirovanie</typePrefix>
+<model>Scratch dlya detei</model>
+<name>Scratch dlya detei</name>
+<url>https://www.kodland.org/ru/courses/programming-on-scratch</url>
+<picture>https://kodland-org.github.io/feeds/Scratch.png</picture>
+<description>Onlain kurs Kodland: Scratch dlya detei.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="2" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Programmirovanie</typePrefix>
+<model>Python dlya detei</model>
+<name>Python dlya detei</name>
+<url>https://www.kodland.org/ru/courses/programming-on-python</url>
+<picture>https://kodland-org.github.io/feeds/Python.png</picture>
+<description>Onlain kurs Kodland: Python dlya detei.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="3" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Programmirovanie</typePrefix>
+<model>Python Pro</model>
+<name>Python Pro</name>
+<url>https://www.kodland.org/ru/courses/programming-on-python-pro</url>
+<picture>https://kodland-org.github.io/feeds/Python%20Pro.png</picture>
+<description>Onlain kurs Kodland: Python Pro.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="4" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Game design</typePrefix>
+<model>Roblox game design</model>
+<name>Roblox game design</name>
+<url>https://www.kodland.org/ru/courses/roblox-game-design</url>
+<picture>https://kodland-org.github.io/feeds/Roblox.png</picture>
+<description>Onlain kurs Kodland: Roblox game design.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="5" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Dizain</typePrefix>
+<model>Dizain cifrovyh mirov</model>
+<name>Dizain cifrovyh mirov</name>
+<url>https://www.kodland.org/ru/courses/fantastic-worlds-design</url>
+<picture>https://kodland-org.github.io/feeds/Design.png</picture>
+<description>Onlain kurs Kodland: Dizain cifrovyh mirov.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="6" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Dizain</typePrefix>
+<model>Dizain cifrovyh mirov Pro</model>
+<name>Dizain cifrovyh mirov Pro</name>
+<url>https://www.kodland.org/ru/courses/fantastic-worlds-design-pro</url>
+<picture>https://kodland-org.github.io/feeds/Design%20Pro.png</picture>
+<description>Onlain kurs Kodland: Dizain cifrovyh mirov Pro.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="7" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Game dev</typePrefix>
+<model>Unity dlya detei</model>
+<name>Unity dlya detei</name>
+<url>https://www.kodland.org/ru/courses/unity-game-design</url>
+<picture>https://kodland-org.github.io/feeds/Unity.png</picture>
+<description>Onlain kurs Kodland: Unity dlya detei.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="8" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Game dev</typePrefix>
+<model>Unity Pro</model>
+<name>Unity Pro</name>
+<url>https://www.kodland.org/ru/courses/unity-game-design-pro</url>
+<picture>https://kodland-org.github.io/feeds/3D%20Pro.png</picture>
+<description>Onlain kurs Kodland: Unity Pro.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="9" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Programmirovanie</typePrefix>
+<model>JavaScript dlya detei</model>
+<name>JavaScript dlya detei</name>
+<url>https://www.kodland.org/ru/courses/javascript</url>
+<picture>https://kodland-org.github.io/feeds/Java.png</picture>
+<description>Onlain kurs Kodland: JavaScript dlya detei.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+<offer id="10" available="true">
+<categoryId>1</categoryId>
+<currencyId>RUB</currencyId>
+<price>47600</price>
+<vendor>Kodland</vendor>
+<typePrefix>Dizain</typePrefix>
+<model>Veb-dizain</model>
+<name>Veb-dizain</name>
+<url>https://www.kodland.org/ru/courses/web-design</url>
+<picture>https://kodland-org.github.io/feeds/Web-design.png</picture>
+<description>Onlain kurs Kodland: Veb-dizain.</description>
+<param name="lessons">32 uroka</param>
+<param name="format">online</param>
+<param name="language">ru</param>
+<param name="price_total">47600</param>
+<param name="price_month">4760</param>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
